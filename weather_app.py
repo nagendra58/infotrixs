@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-API_KEY = "a19de98d6776401fa10112907240101"
+API_KEY = "b4a11efb92464ebd9ea112026240801"
 BASE_URL = "http://api.weatherapi.com/v1"
 FAVORITES_FILE = "favorites.json"
 
